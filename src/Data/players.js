@@ -1,0 +1,51 @@
+const players=[
+    {
+    name: "Lionel Messi",
+    team: " Inter Miami CF",
+    nationality: "Argentina",
+    jerseyNumber: 10,
+    age: 36,
+    imageURL: "/assets/Lionel Messi.jpg",
+    },
+    {
+        name: "Cristiano Ronaldo",
+        team: "Al-Nassr FC",
+        nationality: "Portugal",
+        jerseyNumber: 7,
+        age: 39,
+        imageURL: "/assets/Cristiano Ronaldo.jpg",
+    },
+    {
+        name: "Neymar Jr",
+        team: "Al Hilal",
+        nationality: "Brazil",
+        jerseyNumber: 10,
+        age: 32,
+        imageURL: "/assets/Neymar Jr.jpg",
+    },
+    {
+        name: "Kylian Mbappé",
+        team: "Paris Saint-Germain",
+        nationality: "France",
+        jerseyNumber: 7,
+        age: 25,
+        imageURL: "/assets/Kylian Mbappé.jpg",
+    },
+    {
+        name: "Kevin De Bruyne",
+        team: "Manchester City",
+        nationality: "Belgium",
+        jerseyNumber: 17,
+        age: 32,
+        imageURL: "/assets/Kevin De Bruyne.jpg",
+    },
+    {
+    name: "Virgil van Dijk",
+    team: "Liverpool",
+    nationality: "Netherlands",
+    jerseyNumber: 4,
+    age: 32,
+    imageURL: "/assets/Virgil van Dijk.png",
+    },
+]
+export default players;
